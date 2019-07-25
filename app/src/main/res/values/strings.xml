@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dompet</string>
+    <string name="dompetku">Dompetku</string>
+    <string-array name="jenis_catatan">
+        <item>Pengeluaran</item>
+        <item>Pemasukan</item>
+        <item>Kredit</item>
+    </string-array>
+    <string-array name="kurun_waktu">
+        <item>Bulan ini</item>
+        <item>Minggu ini</item>
+        <item>Hari ini</item>
+        <item>Tahun ini</item>
+    </string-array>
+</resources>
